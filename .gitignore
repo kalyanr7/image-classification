@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*py[cod]
+
+# Distribution / packaging
+*.egg-info
+
+# MLflow
+mlruns/
+*.log
+
+# Hydra
+.hydra
+
+# VS Code
+.vscode
+launch.json
+
+# Others
+.coverage
+.idea
+
+# mac
+.DS_Store
+
+#os
+.bashrc
+
+*.zip
